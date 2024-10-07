@@ -1,0 +1,10 @@
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",123456789,"rv@gmail.com","Rafael","Vertamatti");
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",125443689,"pm@gmail.com","Petra","Rodriguez");
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",569874523,"pj@gmail.com","Pedro","Guerra");
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",896523654,"rr@gmail.com","Rafael","Rodríguez");
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",852369741,"mg@gmail.com","Maria","Gimenez");
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",123456789,"lv@gmail.com","Leonardo","Vertamatti");
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",123456789,"sdv@gmail.com","Sara","De Vertamatti");
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",123456789,"mv@gmail.com","Maia","Vertamatti");
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",123456789,"np@gmail.com","Noé","Prades");
+INSERT INTO client(created_date, phone, email, name, surname) VALUES ("2024-10-03",123456789,"ac@gmail.com","Alex","Calvo");
